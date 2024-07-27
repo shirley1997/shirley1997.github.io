@@ -1,7 +1,7 @@
 #link2 {
-    display: none !important;
+    display: inline !important;
 }
 #link1 {
-    display: inline !important;
+    display: none !important;
 }
 
